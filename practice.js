@@ -12,4 +12,4 @@ while(newArray.length!=1){
 		newArray.pop();
 	}
 }
-console.log(`result is: ${newArray[0]}`);
+console.log(`result is: ${newArray}`);
